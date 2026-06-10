@@ -1,2 +1,56 @@
 # FILE-MG
 FILE MG REPO
+![logo](https://github.com/shahid2005a/FILE-MG/blob/main/FILEMG/Filemg.png)
+
+### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
+```
+
+pkg update && pkg upgrade -y
+
+
+termux-setup-storage
+
+
+pkg install python -y
+
+
+pkg install python-pip -y
+
+
+pkg install git openssl-tool zip unzip cloudflared wget curl nano -y
+
+
+pip install flask requests colorama
+
+
+git clone https://github.com/shahid2005a/FILE-MG.git
+
+```
+
+```
+ cd FILE-MG
+```
+```
+python Filemg.py
+```
+
+### 𝕋𝕖𝕣𝕞𝕦𝕩 𝕊𝕚𝕟𝕘𝕒𝕝𝕖 ℂ𝕠𝕞𝕞𝕒𝕟𝕕 𝕚𝕟𝕤𝕥𝕒𝕝𝕝
+```
+pkg update && pkg upgrade -y && termux-setup-storage && pkg install python python-pip git openssl-tool zip unzip cloudflared wget curl nano -y && pip install flask requests colorama && git clone https://github.com/shahid2005a/FILE-MG.git && cd FILE-MG && python Filemg.py
+```
+
+
+
+
+## 📌 Contact Me  
+
+<a href="https://www.youtube.com/@DigitalCyber-c5n">
+  <img src="https://img.shields.io/badge/Digital Cyber YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Digital Cyber YouTube">
+</a>  
+<br>
+
+<a href="https://t.me/GsmhackerBot">
+  <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
+</a>  
+<br>
+
